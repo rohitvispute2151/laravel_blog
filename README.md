@@ -13,8 +13,7 @@ cp .env.example .env
 Then create the necessary database.
 
 ```
-php artisan db
-create database blog
+create a new database `blog` using Mysql
 ```
 
 And run the initial migrations and seeders.
