@@ -26,8 +26,9 @@
     <section class="px-6 py-8">
         <nav class="md:flex md:justify-between md:items-center">
             <div>
-                <a href="/">
-                    <img src="/images/logo.svg" alt="Laracasts Logo" width="165" height="16">
+            <a href="/"
+                    class="bg-blue-500 ml-3 rounded-full text-xs font-semibold text-white uppercase py-3 px-5">
+                    Home
                 </a>
             </div>
 
@@ -95,7 +96,6 @@
             <img src="/images/lary-newsletter-icon.svg" alt="" class="mx-auto -mb-6" style="width: 145px;">
 
             <h5 class="text-3xl">Stay in touch with the latest posts</h5>
-            <p class="text-sm mt-3">Promise to keep the inbox clean. No bugs.</p>
 
             <div class="mt-10">
                 <div class="relative inline-block mx-auto lg:bg-gray-200 rounded-full">
